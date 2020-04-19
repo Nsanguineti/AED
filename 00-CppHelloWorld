@@ -1,6 +1,1 @@
-#include <iostream>
-int main()
-{
-  cout << "Hello, world! << endl;
-}
- 
+El compilador utilizado para este ejercicio es C++20 (incluido en xCode).
