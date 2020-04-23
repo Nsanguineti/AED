@@ -1,10 +1,10 @@
  # AED
 
-__*Nahuel Sanguineti
+__* Nahuel Sanguineti
 
-__Curso K1051
+__ Curso K1051
 
-__Año 2020
+__ Año 2020
 
-__Legajo 164.421-0
+__ LLegajo 164.421-0
 
