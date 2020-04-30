@@ -23,7 +23,9 @@ insertar imagen
 #### Representación textual
 
 Leer a.
+
 Leer b.
+
 Mostrar a+b
 
 ### Representación Visual
