@@ -11,7 +11,7 @@
 
 ### Modelo IPO
 
-insertar imagen
+![Modelo IPO] ()
 
 ---
 ## Diseño de la solución
@@ -30,7 +30,7 @@ Mostrar a+b
 
 ### Representación Visual
 
-insertar imagen
+![Representación Visual] ()
 
 
 
