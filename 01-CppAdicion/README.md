@@ -30,7 +30,7 @@ Mostrar a+b
 
 ### Representación Visual
 
-![Representación Visual]https://github.com/Nsanguineti/AED/blob/master/01-CppAdicion/Modelo%20Visual.jpg "Representación Visual")
+![Representación Visual](https://github.com/Nsanguineti/AED/blob/master/01-CppAdicion/Modelo%20Visual.jpg "Representación Visual")
 
 
 
