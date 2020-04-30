@@ -11,7 +11,7 @@
 
 ### Modelo IPO
 
-! [Modelo IPO] (https://github.com/Nsanguineti/AED/blob/master/01-CppAdicion/Modelo%20IPO.png)
+![Modelo IPO] (https://github.com/Nsanguineti/AED/blob/master/01-CppAdicion/Modelo%20IPO.png)
 
 ---
 ## Diseño de la solución
@@ -30,7 +30,7 @@ Mostrar a+b
 
 ### Representación Visual
 
-! [Representación Visual] (https://github.com/Nsanguineti/AED/blob/master/01-CppAdicion/Modelo%20Visual.png)
+![Representación Visual] (https://github.com/Nsanguineti/AED/blob/master/01-CppAdicion/Modelo%20Visual.png)
 
 
 
