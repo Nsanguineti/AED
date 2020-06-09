@@ -17,11 +17,11 @@ bool IsBisiesto (unsigned año)
 
 int main ()
 {
-    assert (IsBisiesto (2016));     // Probamos con año divisible por 4 pero no por 100.
-    assert (IsBisiesto (2000));     // Probamos con año divisible por 400.
-    assert (not IsBisiesto (1999));  // Probamos con año no divisible por 4 ni por 400.
-    assert (not IsBisiesto (1700));  // Probamos con año divisible por 4 y por 100, pero no por 400.
-    assert (not IsBisiesto (1500));  // Probamos con año menor a 1582.
+    assert (IsBisiesto (2016));         // Probamos con año divisible por 4 pero no por 100.
+    assert (IsBisiesto (2000));         // Probamos con año divisible por 400.
+    assert (not IsBisiesto (1999));     // Probamos con año no divisible por 4 ni por 400.
+    assert (not IsBisiesto (1700));     // Probamos con año divisible por 4 y por 100, pero no por 400.
+    assert (not IsBisiesto (1500));     // Probamos con año menor a 1582.
 
     cout << IsBisiesto(2016) << endl;
     cout << IsBisiesto(2000) << endl;
