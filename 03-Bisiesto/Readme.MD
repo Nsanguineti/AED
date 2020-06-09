@@ -30,7 +30,7 @@
 ## Diseño de la solución 
 
 * Definimos la función booleana 'IsBisiesto'.
-* Probamos la función con años diferentes para probar su correcto funcionamiento, y luego mostramos si estos años son o no bisiestos, imprimiendo por pantalla un '1' si sí lo son y un '0' si no lo son.
+* Probamos la función con años diferentes para probar su correcto funcionamiento, y luego mostramos si estos años son o no bisiestos, mostrando por pantalla un '1' si sí lo son y un '0' si no lo son.
 
 ### Léxico
 
