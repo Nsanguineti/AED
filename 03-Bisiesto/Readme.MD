@@ -24,7 +24,7 @@
 
 ## Modelo IPO
 
-
+! [Modelo IPO](https://github.com/Nsanguineti/AED/blob/master/03-Bisiesto/Modelo%20IPO.png)
 
 ---
 ## Diseño de la solución 
