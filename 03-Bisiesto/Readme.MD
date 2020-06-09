@@ -34,4 +34,19 @@
 
 ### Léxico
 
+IsBisiesto: ℕ → 𝔹 / IsBisiesto(año)= p ∧ (q ∨ (r ∧ ~s))
+
+Donde: 
+ℕ: naturales.
+𝔹: booleanos.
+p: año mayor a 1582.
+q: año divisible por 400.
+r: año divisible por 4.
+s: año divisible por 100.
+
+
+### Árbol de la función
+
+![Árbol de la función](https://github.com/Nsanguineti/AED/blob/master/03-Bisiesto/Árbol.png)
+
 
