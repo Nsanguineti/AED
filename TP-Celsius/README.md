@@ -30,12 +30,6 @@
 
 ### Léxico 
 
-celsius: ℝ → 𝔹/celsius(f)=5/9.(f-32)
+![Celsius](https://github.com/Nsanguineti/AED/blob/master/TP-Celsius/Función%20Celsius.png "función celsius")
 
-![AreNear](https://github.com/Nsanguineti/AED/blob/master/TP-Celsius/Función%20AreNear.png)
-
-
-
-
-
-
+![AreNear](https://github.com/Nsanguineti/AED/blob/master/TP-Celsius/Función%20AreNear.png "función AreNear")
