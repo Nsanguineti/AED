@@ -47,6 +47,6 @@ Donde:
 
 ### Árbol de la función
 
-![Árbol de la función](https://github.com/Nsanguineti/AED/blob/master/03-Bisiesto/Árbol.png)
+![Árbol de la función](https://github.com/Nsanguineti/AED/blob/master/03-Bisiesto/Árbol%20.png "Árbol de la función")
 
 
