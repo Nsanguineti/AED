@@ -20,25 +20,25 @@
 ### Hipótesis de trabajo
 
   * Se definirán los colores *red, green & blue* que estarán compuestos por tres canales de 8 bits cada uno, siguiendo el modelo de color RGB.
-  * Se definirán todos los colores fuera de cualquier función con la constante *const* para que los mismos no puedan ser modificados por nadie. 
+  * Se definirán todos los colores fuera de cualquier función con la constante `const` para que los mismos no puedan ser modificados por nadie. 
   * Se definirán los prototipos de las funciones y las funciones para poder hacer funcionar el programa.
   ---
 ### Crédito extra para la resolución
 
-  * La operación *Mezclar* mezcla en partes iguales; desarrollar una variante de la operación que permita indicar las proporciones de las partes.
-  * Desarrollar las operaciones *sumar* y *restar* que dados dos colores suma o resta la intensidad de cada canal, siempre dando resultados en el rango [0,255]. Utilizá estas operaciones para inciliar los colores secundarios, blanco y negro.
-  * Desarrollar la operación *GetComplementario* que dado un color obtiene el complemento u opuesto. Por ejemplo, el complemento de rojo es cyan.
-  * Desarrollar la operación *GetHtmlHex* que genera un string con la representación hexadecimal para HTML de un color.
-  * Desarrollar la operación *GetHtmlRgb* que genera un string con la representación rgb para HTML de un color.
-  * Codificar la funcion *CrearSvgConTextoEscritoEnAltoContraste* que dado un nombre archivo sin extensión, un texto y un color de letra, genera un archivo SVG con el texto en un color y fondo en su complementario.
-  * Responder en *readme.md* porqué se debe usar *uint8_t*, es correcto usar *unsigned char* y no *char*.
+  * La operación `Mezclar` mezcla en partes iguales; desarrollar una variante de la operación que permita indicar las proporciones de las partes.
+  * Desarrollar las operaciones `sumar` y `restar` que dados dos colores suma o resta la intensidad de cada canal, siempre dando resultados en el rango [0,255]. Utilizá estas operaciones para inciliar los colores secundarios, blanco y negro.
+  * Desarrollar la operación `GetComplementario` que dado un color obtiene el complemento u opuesto. Por ejemplo, el complemento de rojo es cyan.
+  * Desarrollar la operación `GetHtmlHex` que genera un string con la representación hexadecimal para HTML de un color.
+  * Desarrollar la operación `GetHtmlRgb` que genera un string con la representación rgb para HTML de un color.
+  * Codificar la funcion `CrearSvgConTextoEscritoEnAltoContraste` que dado un nombre archivo sin extensión, un texto y un color de letra, genera un archivo SVG con el texto en un color y fondo en su complementario.
+  * Responder en *readme.md* porqué se debe usar `uint8_t`, es correcto usar `unsigned char` y no `char`.
   ---
-### Uso de *uint8_t*
+### Uso de `uint8_t`
 
-  * El uso de *uint8_t* permite usar el ancho de cada unidad direccionable con 8 bits de valor y sin bits de relleno, permitiendo de esta manera que el valor máximo del dato será de 255.
+  * El uso de `uint8_t` permite usar el ancho de cada unidad direccionable con 8 bits de valor y sin bits de relleno, permitiendo de esta manera que el valor máximo del dato será de 255.
   
-### Usar *unsigned char* y no *char*
+### Usar `unsigned char` y no `char`
 
-  * De la misma manera que *uint8_t*, *unsigned char* tiene un valor de representación de [0,255], siendo éste el valor de representación de los colores en formato RGB.
+  * De la misma manera que `uint8_t`, `unsigned char` tiene un valor de representación de [0,255], siendo éste el valor de representación de los colores en formato RGB.
   
   
